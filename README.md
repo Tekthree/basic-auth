@@ -4,7 +4,7 @@
 ## Author - Tek Jones
 ---
 
-## Deployment -
+## Deployment - https://tekjones-basic-auth.herokuapp.com/
 ---
 
 ## UML - [UML](./uml.png)
