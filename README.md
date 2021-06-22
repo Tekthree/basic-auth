@@ -7,7 +7,7 @@
 ## Deployment - https://tekjones-basic-auth.herokuapp.com/
 ---
 
-## UML - [UML](./uml.png)
+## UML - ![UML](./uml.png)
 
 ## Routes
 * signup
